@@ -2,6 +2,9 @@
 
 Dynamic, rendered version of Jupyter notebook files:
 
+Time series analysis of database events
+https://nbviewer.jupyter.org/github/littlexsparkee/Projects/blob/master/Time%20series%20analysis.ipynb
+
 Effect of sale on views, total sales
 https://nbviewer.jupyter.org/github/littlexsparkee/Projects/blob/master/Sales%20analysis.ipynb
 
