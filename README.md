@@ -2,6 +2,9 @@
 
 Dynamic, rendered version of Jupyter notebook files:
 
+Analysis of database logs - dimensionality reduction on features and K-means on transformed features
+https://nbviewer.jupyter.org/github/littlexsparkee/Projects/blob/master/Database_PCA_Kmeans.ipynb
+
 Time series analysis of database events
 https://nbviewer.jupyter.org/github/littlexsparkee/Projects/blob/master/Time%20series%20analysis.ipynb
 
