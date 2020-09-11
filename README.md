@@ -13,6 +13,3 @@ https://nbviewer.jupyter.org/github/littlexsparkee/Projects/blob/master/Sales%20
 
 Demographics of profiles viewed in social network for academia
 https://nbviewer.jupyter.org/github/littlexsparkee/Projects/blob/master/krysl_doximity.ipynb
-
-Grocery store sales examined on dimensions of region and brand
-https://nbviewer.jupyter.org/github/littlexsparkee/Projects/blob/master/Engage3.ipynb
