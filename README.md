@@ -1,12 +1,12 @@
 # Projects
 
-Dynamic, rendered version of Jupyter notebook files:
+For proper rendering of the above Jupyter notebook files, follow the links below:
 
-Data mining on system processes
+Most taxing system processes
 https://nbviewer.jupyter.org/github/littlexsparkee/Projects/blob/master/system%20processes.ipynb
 
-Analysis of database logs - dimensionality reduction on features and K-means on transformed features
+Analysis of database behavior through logs
 https://nbviewer.jupyter.org/github/littlexsparkee/Projects/blob/master/Database_PCA_Kmeans.ipynb
 
-Effect of sale on views, total sales
+Effect of sale on key business metrics
 https://nbviewer.jupyter.org/github/littlexsparkee/Projects/blob/master/Sales%20analysis.ipynb
